@@ -1,1 +1,1 @@
-# Language-prediction-using-AI-ML
+# Language-Detector-AI-ML
